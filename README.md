@@ -237,7 +237,7 @@ home.html
     </section>
 
     <footer>
-        <p>&copy; 2000 LOV LIMITED's  All rights reserved. | <a href="#">Privacy Policy</a></p>
+        <p>&copy; Designed and developed by N.Abirami. | <a href="#">Privacy Policy</a></p>
     </footer>
 
 </body>
@@ -447,7 +447,7 @@ s<!DOCTYPE html>
     </div>
 
     <footer>
-        <p>&copy; 2000 LOV LIMITED's 4. All rights reserved. | <a href="home.html">Back to Home</a></p>
+        <p>&copy; Designed and developed by N.Abirami. | <a href="home.html">Back to Home</a></p>
     </footer>
 
 </body>
@@ -655,7 +655,7 @@ contact.html
     </section>
 
     <footer>
-        <p>&copy; 2000 LOV LIMITED's . All rights reserved. | <a href="#">Privacy Policy</a></p>
+        <p>&copy; Designed and developed by N.Abirami. | <a href="#">Privacy Policy</a></p>
     </footer>
 
 </body>
@@ -927,7 +927,7 @@ menu.html
     </div>
 
     <footer>
-        <p>&copy; 2000 LOV LIMITED's . All rights reserved. | <a href="home.html">Back to Home</a></p>
+        <p>&copy; Designed and developed by N.Abirami. | <a href="home.html">Back to Home</a></p>
     </footer>
 
 </body>
@@ -935,11 +935,9 @@ menu.html
 ```
 
 ## OUTPUT
-![alt text](<Screenshot (105).png>)
-![alt text](<Screenshot (106).png>)
-![alt text](<Screenshot (108).png>)
-
-![alt text](<Screenshot (107).png>)
-
+![alt text](<Screenshot (109).png>)
+![alt text](<Screenshot (110).png>)
+![alt text](<Screenshot (112).png>)
+![alt text](<Screenshot (111).png>)
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
